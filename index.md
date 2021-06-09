@@ -1,5 +1,5 @@
 ## Luiz's Profile
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](profile.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
